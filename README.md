@@ -31,14 +31,14 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 
 
-<img src="https://tse2.mm.bing.net/th/id/OIP.HCn9NkA9Oxf9wWol4u_QjgHaE8?rs=1&pid=ImgDetMain" width="20px" /> HTML
+<img src="[https://tse2.mm.bing.net/th/id/OIP.HCn9NkA9Oxf9wWol4u_QjgHaE8?rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIP.Mrb8EiYMlvcRFQY384KEHwHaKd?rs=1&pid=ImgDetMain)" width="20px" /> HTML
 
-<img src="https://th.bing.com/th/id/R.6c7daa42b90377c1f4ef0e865620866c?rik=PJj543cjDyJ3Sg&pid=ImgRaw&r=0" width="20px" /> CSS
+<img src="[https://th.bing.com/th/id/R.6c7daa42b90377c1f4ef0e865620866c?rik=PJj543cjDyJ3Sg&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.fBJ2R5Y0m_tQXUxdc0icPQHaKd?rs=1&pid=ImgDetMain)" width="20px" /> CSS
 
-<img src=""  width="20px" /> JS
+<img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="20px" /> JS
 
-<img src="" width="20px" /> Vuetify
+<img src="https://th.bing.com/th/id/OIP.UARqfYhpQg8wJwQ2X0ZH1QAAAA?rs=1&pid=ImgDetMain" width="20px" /> Vuetify
 
-<img src="" width="20px" /> MySql
+<img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain" width="20px" /> MySql
 
 
