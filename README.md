@@ -1,4 +1,4 @@
-# PROJETO MY TASK
+![image](https://github.com/tidaniellino/mytask/assets/103187575/a00ed465-6b7b-4e19-9a0e-bd74c23d84d9)# PROJETO MY TASK
 
 
 ## Índice/Sumário
@@ -35,13 +35,12 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 <img src="https://github.com/tidaniellino/mytask/assets/103187575/48af6ea1-e0dd-4ce0-b1fa-7d4aa249ec9b" width="30px" /> CSS
 
-<img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="30px" /> JS
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/4ec960ab-aaec-40ae-9e19-4b020e107147"  width="30px" /> JS
 
-<img src="https://th.bing.com/th/id/OIP.UARqfYhpQg8wJwQ2X0ZH1QAAAA?rs=1&pid=ImgDetMain" width="30px" /> Vuetify
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/04a4f316-fa4c-431b-9a7c-dc4700bc509a" width="30px" /> Vuetify
 
-<img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain" width="30px" /> MySql
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/e9657b55-1673-4a47-b7d6-bed86ff5d41e" width="30px" /> MySql
 
-<img src="https://th.bing.com/th/id/OIP.TOXo3BCjdsQUg-j_-_phSwAAAA?rs=1&pid=ImgDetMain" width="30px" /> Canvas
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/c5af326e-0894-46c8-8ac6-3a7711338a39" width="30px" /> Canvas
 
-<img src="https://th.bing.com/th/id/OIP.QjIeTQWV3xPtF2ot5f_UZwHaHR?rs=1&pid=ImgDetMain" width="30px" /> VsCode
-
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/9588f68a-8bf2-437e-85c8-490ab0326724" width="30px" /> VsCode
