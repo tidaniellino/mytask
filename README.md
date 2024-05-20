@@ -31,9 +31,9 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 
 
-<img src="https://tse2.mm.bing.net/th/id/OIP.HCn9NkA9Oxf9wWol4u_QjgHaE8?rs=1&pid=ImgDetMain" width="20px" /> HTML
+<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="20px" /> HTML
 
-<img src="[https://th.bing.com/th/id/R.6c7daa42b90377c1f4ef0e865620866c?rik=PJj543cjDyJ3Sg&pid=ImgRaw&r=0](https://th.bing.com/th/id/OIP.fBJ2R5Y0m_tQXUxdc0icPQHaKd?rs=1&pid=ImgDetMain)" width="20px" /> CSS
+<img src="https://th.bing.com/th/id/OIP.EFlKxTWYVmc-_XucVOXW-gHaHa?rs=1&pid=ImgDetMain" width="20px" /> CSS
 
 <img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="20px" /> JS
 
