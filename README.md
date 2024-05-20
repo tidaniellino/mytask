@@ -31,14 +31,17 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 
 
-<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="20px" /> HTML
+<img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="30px" /> HTML
 
-<img src="https://th.bing.com/th/id/OIP.EFlKxTWYVmc-_XucVOXW-gHaHa?rs=1&pid=ImgDetMain" width="20px" /> CSS
+<img src="https://th.bing.com/th/id/OIP.EFlKxTWYVmc-_XucVOXW-gHaHa?rs=1&pid=ImgDetMain" width="30px" /> CSS
 
-<img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="20px" /> JS
+<img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="30px" /> JS
 
-<img src="https://th.bing.com/th/id/OIP.UARqfYhpQg8wJwQ2X0ZH1QAAAA?rs=1&pid=ImgDetMain" width="20px" /> Vuetify
+<img src="https://th.bing.com/th/id/OIP.UARqfYhpQg8wJwQ2X0ZH1QAAAA?rs=1&pid=ImgDetMain" width="30px" /> Vuetify
 
-<img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain" width="20px" /> MySql
+<img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain" width="30px" /> MySql
 
+<img src="https://th.bing.com/th/id/OIP.TOXo3BCjdsQUg-j_-_phSwAAAA?rs=1&pid=ImgDetMain" width="30px" /> Canvas
+
+img src="https://th.bing.com/th/id/OIP.QjIeTQWV3xPtF2ot5f_UZwHaHR?rs=1&pid=ImgDetMain" width="30px" /> VsCode
 
