@@ -24,6 +24,8 @@ Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o contro
 ## Etapas do Projeto
 
 * [Cadrastro.html](Cadrastro.html)
+* [index.html](index.html)
+* [tela-de-login.html](tela-de-login.html)
 
 ## Apresentação Final 
 
