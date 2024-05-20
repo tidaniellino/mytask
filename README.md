@@ -43,4 +43,4 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 <img src="https://github.com/tidaniellino/mytask/assets/103187575/c5af326e-0894-46c8-8ac6-3a7711338a39" width="20px" /> Canvas
 
-<img src="https://github.com/tidaniellino/mytask/assets/103187575/1d65a8f0-ffd4-40ce-816d-40ce093eb10c" width="20px" /> VsCode
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/1d65a8f0-ffd4-40ce-816d-40ce093eb10c" width="30px" /> VsCode
