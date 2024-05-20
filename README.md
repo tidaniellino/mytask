@@ -33,7 +33,8 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 <img src="https://images.vexels.com/media/users/3/166383/isolated/lists/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="30px" /> HTML
 
-<img src="https://th.bing.com/th/id/OIP.EFlKxTWYVmc-_XucVOXW-gHaHa?rs=1&pid=ImgDetMain" width="30px" /> CSS
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/48af6ea1-e0dd-4ce0-b1fa-7d4aa249ec9b" width="30px" /> CSS
+![OIP-removebg-preview (9)](https://github.com/tidaniellino/mytask/assets/103187575/48af6ea1-e0dd-4ce0-b1fa-7d4aa249ec9b)
 
 <img src="https://th.bing.com/th/id/OIP.btmLuIewxr1xXFZFEKGwxwHaKv?rs=1&pid=ImgDetMain"  width="30px" /> JS
 
