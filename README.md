@@ -9,6 +9,10 @@
 * [Apresentação Final](#Apresentação-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 
+## Sobre o Projeto
+
+Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o controle My Task foi criado com a intenção de  simplificar o controle e gerenciamento de tarefas, compromissos e finanças em uma plataforma intuitiva. Com recursos de colaboração e controle financeiro, você pode organizar sua agenda, compartilhar tarefas e monitorar gastos, tudo em um só lugar.
+
 ## Autores
 
  - **Samuel Lopes RA:622121812**
@@ -16,11 +20,6 @@
  - **Thiago Oliveira RA:62313349**
  - **Caio Henrique RA:62311233**
  - **Daniel Lino RA:62321387**
-
-## Sobre o Projeto
-
-Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o controle My Task foi criado com a intenção de  simplificar o controle e gerenciamento de tarefas, compromissos e finanças em uma plataforma intuitiva. Com recursos de colaboração e controle financeiro, você pode organizar sua agenda, compartilhar tarefas e monitorar gastos, tudo em um só lugar.
-
 
 ## Apresentação Final 
 
