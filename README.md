@@ -14,9 +14,9 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 ## Índice/Sumário
 
+* [Índice/Sumário](#Índice-/-Sumário)
 * [Autores](#Autores)
 * [Sobre o Projeto](#Sobre-o-Projeto) 
-* [Índice/Sumário](#Índice-/-Sumário)
 * [Apresentação Final](#Apresentação-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 
