@@ -43,5 +43,5 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 <img src="https://th.bing.com/th/id/OIP.TOXo3BCjdsQUg-j_-_phSwAAAA?rs=1&pid=ImgDetMain" width="30px" /> Canvas
 
-img src="https://th.bing.com/th/id/OIP.QjIeTQWV3xPtF2ot5f_UZwHaHR?rs=1&pid=ImgDetMain" width="30px" /> VsCode
+<img src="https://th.bing.com/th/id/OIP.QjIeTQWV3xPtF2ot5f_UZwHaHR?rs=1&pid=ImgDetMain" width="30px" /> VsCode
 
