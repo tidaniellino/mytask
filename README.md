@@ -1,5 +1,14 @@
 # PROJETO MY TASK
 
+
+## Índice/Sumário
+
+* [Índice/Sumário](#Índice-/-Sumário)
+* [Autores](#Autores)
+* [Sobre o Projeto](#Sobre-o-Projeto) 
+* [Apresentação Final](#Apresentação-Final)
+* [Tecnologias Usadas](#Tecnologias-Usadas)
+
 ## Autores
 
  - **Samuel Lopes RA:622121812**
@@ -11,14 +20,6 @@
 ## Sobre o Projeto
 
 My Task foi criado com a intenção de  simplificar o controle e gerenciamento de tarefas, compromissos e finanças em uma plataforma intuitiva. Com recursos de colaboração e controle financeiro, você pode organizar sua agenda, compartilhar tarefas e monitorar gastos, tudo em um só lugar.
-
-## Índice/Sumário
-
-* [Índice/Sumário](#Índice-/-Sumário)
-* [Autores](#Autores)
-* [Sobre o Projeto](#Sobre-o-Projeto) 
-* [Apresentação Final](#Apresentação-Final)
-* [Tecnologias Usadas](#Tecnologias-Usadas)
 
 
 ## Apresentação Final 
