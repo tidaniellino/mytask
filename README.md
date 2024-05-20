@@ -1,4 +1,4 @@
-![image](https://github.com/tidaniellino/mytask/assets/103187575/a00ed465-6b7b-4e19-9a0e-bd74c23d84d9)# PROJETO MY TASK
+# PROJETO MY TASK
 
 
 ## Índice/Sumário
@@ -43,4 +43,4 @@ My Task foi criado com a intenção de  simplificar o controle e gerenciamento d
 
 <img src="https://github.com/tidaniellino/mytask/assets/103187575/c5af326e-0894-46c8-8ac6-3a7711338a39" width="30px" /> Canvas
 
-<img src="https://github.com/tidaniellino/mytask/assets/103187575/9588f68a-8bf2-437e-85c8-490ab0326724" width="30px" /> VsCode
+<img src="https://github.com/tidaniellino/mytask/assets/103187575/1285cf54-7152-4924-a670-b2862b1e6f9d" width="30px" /> VsCode
