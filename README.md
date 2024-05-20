@@ -19,7 +19,7 @@
 
 ## Sobre o Projeto
 
-My Task foi criado com a intenção de  simplificar o controle e gerenciamento de tarefas, compromissos e finanças em uma plataforma intuitiva. Com recursos de colaboração e controle financeiro, você pode organizar sua agenda, compartilhar tarefas e monitorar gastos, tudo em um só lugar.
+Nosso grupo teve como ideia o desenvolvimento de um sistema que realiza o controle My Task foi criado com a intenção de  simplificar o controle e gerenciamento de tarefas, compromissos e finanças em uma plataforma intuitiva. Com recursos de colaboração e controle financeiro, você pode organizar sua agenda, compartilhar tarefas e monitorar gastos, tudo em um só lugar.
 
 
 ## Apresentação Final 
